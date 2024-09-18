@@ -11,6 +11,9 @@
 - psycholinguistics (language development and processing across the lifespan)
 - eye-tracking, corpus studies, neuropsychological testing etc.
 
+## Current roles
+- assistant professor, Fulbright scholar (Temple University), co-lead of the Laboratory for Psycholinguistic Research, Vice-chair of the COST Action CA21131 
+
 ## Work experience
 - 11/07/2024-today: Assistant professor: Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP), University of Zagreb
 - 20/10/2020-10/07/2024	Postdoctoral research fellow: Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP), University of Zagreb
