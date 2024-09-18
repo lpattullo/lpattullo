@@ -1,9 +1,21 @@
 main:
-- title: CV 
-url:
+  - title: "CV"
+    url: /cv/
 
--title: Scholarships, awards, grants
-url: 
+  - title: "Scholarships, awards, grants"
+    url: /scholarships-awards-grants/    
 
-- title: Published work
-url: 
+  - title: "Published work"
+    url: /published-work/    
+    
+  #- title: "Portfolio"
+    #url: /portfolio/
+        
+  #- title: "Blog Posts"
+    #url: /year-archive/
+    
+  #- title: "CV"
+    #url: /cv/
+    
+  #- title: "Guide"
+    #url: /markdown/
