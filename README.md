@@ -1,6 +1,6 @@
-# Ana Matić Škorić
+# Personal website (CV, bio and bibliographical information)
 
-#### Biographical information
+## Biographical information
 - DoB: 27 January 1991
 - Croatian
 
