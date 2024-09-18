@@ -8,8 +8,8 @@ main:
   - title: "Published work"
     url: /published-work/    
     
-  #- title: "Portfolio"
-    #url: /portfolio/
+  - title: "Converences"
+    #url: /conferences/
         
   #- title: "Blog Posts"
     #url: /year-archive/
