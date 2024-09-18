@@ -6,13 +6,13 @@
 - a wife, a sister, a daughter, an aunt, a friend and an assistant professor
 - enjoyes research, music, cycling, yoga, books, travels
 
+## Current roles
+- assistant professor, Fulbright scholar (Temple University), co-lead of the Laboratory for Psycholinguistic Research, Vice-chair of the COST Action CA21131
+- 
 ## Research interests and methods used in research
 - developmental and acquired language disorders
 - psycholinguistics (language development and processing across the lifespan)
 - eye-tracking, corpus studies, neuropsychological testing etc.
-
-## Current roles
-- assistant professor, Fulbright scholar (Temple University), co-lead of the Laboratory for Psycholinguistic Research, Vice-chair of the COST Action CA21131 
 
 ## Work experience
 - 11/07/2024-today: Assistant professor: Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP), University of Zagreb
@@ -51,11 +51,6 @@
 - Adult Language Processing (HRZZ-2421), research assistant, 2016-2017. (PI: Jelena Kuvač Kraljević)
 - Prerequisites for academic equality: early recognition of language disorders (IPA), assistant, 2014-2015. (PI: Jelena Kuvač Kraljević)
 - Secondary proposer of a COST Project Transdiagnostic understanding of neurodevelopmental disorders through research and assessment (PI: Joel B. Talcott) (in review)
-
-## Research interests and methods used in research
-- Developmental and acquired language disorders
-- Psycholinguistics (language development and processing across the lifespan)
-- Eye-tracking, corpus studies, neuropsychological testing etc.
 
 ## Published work
 ### Peer reviewed journal articles
