@@ -9,7 +9,7 @@ main:
     url: /published-work/    
     
   - title: "Conferences"
-    #url: /conferences/
+    url: /conferences/
         
   #- title: "Blog Posts"
     #url: /year-archive/
