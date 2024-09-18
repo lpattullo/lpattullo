@@ -1,14 +1,15 @@
 main:
   - title: "CV"
     url: /pages/cv.pdf/
+    
   - title: "Conferences"
-    url: //
+    url: /pages/conferences.pdf/
 
   - title: "Scholarships, awards, grants"
-    url: /scholarships-awards-grants/    
+    #url: /scholarships-awards-grants/    
 
   - title: "Published work"
-    url: /https://www.croris.hr/crosbi/searchByContext/2/33228?lang=en/     
+    #url: /https://www.croris.hr/crosbi/searchByContext/2/33228?lang=en/     
         
   #- title: "Blog Posts"
     #url: /year-archive/
