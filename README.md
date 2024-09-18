@@ -8,7 +8,7 @@
 
 ## Current roles
 - assistant professor, Fulbright scholar (Temple University), co-lead of the Laboratory for Psycholinguistic Research, Vice-chair of the COST Action CA21131
-- 
+  
 ## Research interests and methods used in research
 - developmental and acquired language disorders
 - psycholinguistics (language development and processing across the lifespan)
