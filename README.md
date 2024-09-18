@@ -1,4 +1,4 @@
-# Personal website (CV, bio and bibliographical information)
+# Personal website
 
 ## Biographical information
 - DoB: 27 January 1991
