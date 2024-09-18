@@ -1,8 +1,15 @@
-# Personal website
+# Ana's personal website
 
-## Biographical information
+## Basic information
 - DoB: 27 January 1991
 - Croatian
+- a wife, a sister, a daughter, an aunt, a friend and an assistant professor
+- enjoyes research, music, cycling, yoga, books, travels
+
+## Research interests and methods used in research
+- Developmental and acquired language disorders
+- Psycholinguistics (language development and processing across the lifespan)
+- Eye-tracking, corpus studies, neuropsychological testing etc.
 
 ## Work experience
 - 11/07/2024-today: Assistant professor: Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP), University of Zagreb
@@ -18,14 +25,14 @@
 - 01/09/2005–19/05/2009: Highschool education: II. gymnasium, Zagreb (Croatia) 
 
 ## Scholarships, international visits, awards
-- Fulbright Visiting Scholar Scholarship Award: prof. Jamie Reilly, Concepts and Cognition Laboratory, E. M. Saffran Center for Cognitive Neuroscience, Department of Communication Sciences and Disorders, Temple University, 19.8.2024.-19.12.2024.
+- **Fulbright Visiting Scholar Award**: prof. Jamie Reilly, Concepts and Cognition Laboratory, E. M. Saffran Center for Cognitive Neuroscience, Department of Communication Sciences and Disorders, Temple University, 19.8.2024.-19.12.2024.
 - Bilateral international exchange/academic visit: prof. Hanne Gram Simonsen, University of Oslo, Center for Multilingualism in Society across the Lifespan, 9.5.2022.-14.5.2022.
-- DAAD Short-Term Grants Award: prof. Theodoros Marinis, Department of Linguistics, University of Konstanz, 1.12.2019.-1.3.2020.
+- **DAAD Short-Term Grants Award**: prof. Theodoros Marinis, Department of Linguistics, University of Konstanz, 1.12.2019.-1.3.2020.
 - COST Action Grant: Short-term Scientific Mission, prof. Stephanie Kern, Laboratoire Dinamique du Langage, University of Lyon, 18.-22.2.2019.
 - COST Action Grant: Evidence Based Practice, University of Seville, 6.-10.3.2017.
 - COST Action Grant : Eye-tracking Use in Reading Research, University of Cyprus, 31.10.-2.11.2016.
 - COST Action Grant: Short-term Scientific Mission, prof. James Law, University of Newcastle, 18.-24.4.2016.
-- The highest achieving young scientist award, University of Zagreb, 2019.
+- **The highest achieving young scientist award**, University of Zagreb, 2019.
 
 ## Grants
 - Jezično nasljeđe gradišćanskih Hrvata (JENGRAH), research collaborator, 2024-ongoing (PI: Ivan Marko Gligorić)
