@@ -7,9 +7,9 @@
 - enjoyes research, music, cycling, yoga, books, travels
 
 ## Research interests and methods used in research
-- Developmental and acquired language disorders
-- Psycholinguistics (language development and processing across the lifespan)
-- Eye-tracking, corpus studies, neuropsychological testing etc.
+- developmental and acquired language disorders
+- psycholinguistics (language development and processing across the lifespan)
+- eye-tracking, corpus studies, neuropsychological testing etc.
 
 ## Work experience
 - 11/07/2024-today: Assistant professor: Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP), University of Zagreb
