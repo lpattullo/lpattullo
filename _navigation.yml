@@ -3,7 +3,7 @@ main:
     url: /pages/cv.pdf/
     
   - title: "Conferences"
-    url: /pages/conferences.pdf/
+    url: /pages/conferences.md/
 
   - title: "Scholarships, awards, grants"
     #url: /scholarships-awards-grants/    
