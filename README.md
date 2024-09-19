@@ -107,5 +107,5 @@
 1)	**Matić, A.** (2020). Psiholingvistički pristup strukturno-značenjskim čimbenicima u obradi odnosnih rečenica. [Psycholinguistic approach to structural-semantic factors in processing relative clauses]. Doctoral thesis. University of Zagreb: Faculty of Humanities and Social Sciences. https://doi.org/10.17234/diss.2020.8937  
 2)	**Matić, A.** (2014). Prikaz pilot programa grupne jezične terapije [Overview of the pilot programme of group language therapy]. Master’s thesis. University of Zagreb: Faculty of Education and Rehabilitation Sciences. https://www.bib.irb.hr/769926
 
-### Talks, conference papers and other work 
-[Papers, conferences and workshop talks](https://www.croris.hr/crosbi/searchByContext/2/33228?lang=en)
+### Conference talks and more 
+[Extensive list of papers, conference talks and workshops](https://www.croris.hr/crosbi/searchByContext/2/33228?lang=en)
