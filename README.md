@@ -108,4 +108,4 @@
 2)	**Matić, A.** (2014). Prikaz pilot programa grupne jezične terapije [Overview of the pilot programme of group language therapy]. Master’s thesis. University of Zagreb: Faculty of Education and Rehabilitation Sciences. https://www.bib.irb.hr/769926
 
 ### Talks, conference papers and other work 
-[Papers, conferences and workshop talks] (https://www.croris.hr/crosbi/searchByContext/2/33228?lang=en)
+[Papers, conferences and workshop talks](https://www.croris.hr/crosbi/searchByContext/2/33228?lang=en)
