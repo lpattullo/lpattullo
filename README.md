@@ -1,4 +1,4 @@
-# Ana's personal website
+# Ana's website
 
 ## Basic information
 - DoB: 27 January 1991
