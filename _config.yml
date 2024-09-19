@@ -4,3 +4,4 @@ logo: anaprofile.jpg
 #uri: [linkedin](www.linkedin.com/in/ana-matić-škorić-3b260795) 
 #show_downloads: false
 theme: jekyll-theme-minimal
+include: [_navigation.yml]
