@@ -1,8 +1,9 @@
-- title: Home
-  url: /
+  main:
+  - title: "Home: about me"
+    url: /README.md/ 
 
-- title: Publications
-  url: /pages/publications.md 
+    - title: "Publications"
+    url: /pages/publications.md/ 
 
-- title: Grants and scholarships
-  url: /pages/grants.md 
+  - title: "Grants and scholarships"
+    url: /pages/grants.md/     
