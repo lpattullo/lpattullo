@@ -4,7 +4,7 @@
 </p>
 
 ## Basic information
-- DoB: 27 January 1991
+- DoB: January 27 1991
 - Croatian
 - a wife, a sister, a daughter, an aunt, a friend and an assistant professor
 - enjoys research, music, books, cycling, yoga, travel
