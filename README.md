@@ -22,14 +22,14 @@
 - eye-tracking, corpus studies, neuropsychological testing etc.
 
 ## Work experience
-- 11/07/2024-today: Assistant professor: Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP), University of Zagreb
-- 20/10/2020-10/07/2024	Postdoctoral research fellow: Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP), University of Zagreb
-- 20/10/2016–20/10/2020:	PhD, Croatian Science Foundation (CSF) Grant: Faculty of Education and Rehabilitation Sciences, Department of SLP, University of Zagreb
-- 06/2016–09/2017:	PhD, Research collaborator, project 'Adult Language Processing' (CSF-2421): Faculty of Education and Rehabilitation Sciences, Department of SLP, University of Zagreb
-- 01/11/2014–21/02/2015: Research assistant, project 'Prerequisites for academic equality: early recognition of language disorders' (IPA, 2013-2015): Faculty of Education and Rehabilitation Sciences, Department of SLP, University of Zagreb
+- 11/07/2024-today: Assistant professor: University of Zagreb, Faculty of Education and Rehabilitation Sciences, Department of Speech Language Pathology (SLP)
+- 20/10/2020-10/07/2024:	Postdoctoral research fellow: University of Zagreb, Faculty of Education and Rehabilitation Sciences, Department of SLP
+- 20/10/2016–20/10/2020:	PhD, Croatian Science Foundation (CSF) Grant: University of Zagreb, Faculty of Education and Rehabilitation Sciences, Department of SLP 
+- 06/2016–09/2017:	PhD, Research collaborator: 'Adult Language Processing' (Grant CSF-2421)
+- 01/11/2014–21/02/2015: Research assistant, project 'Prerequisites for academic equality: early recognition of language disorders' (IPA, 2013-2015): University of Zagreb, Faculty of Education and Rehabilitation Sciences, Department of SLP
 
 ## Education
 - 20/01/2017–06/05/2020:	PhD (summa cum laude): 'Psycholinguistic approach to structural-semantic factors in processing relative clauses': Doctoral studies in Linguistics, Faculty of Humanities and Social Sciences, University of Zagreb
-- 16/10/2012–09/09/2014:	M.Sci. (summa cum laude): Faculty of Education and Rehabilitation Sciences, Department of SLP, University of Zagreb
-- 22/09/2009–15/09/2012:	Bacc. (summa cum laude): Faculty of Education and Rehabilitation Sciences, Department of SLP, University of Zagreb
+- 16/10/2012–09/09/2014:	M.Sci. (summa cum laude): University of Zagreb, Faculty of Education and Rehabilitation Sciences, Department of SLP
+- 22/09/2009–15/09/2012:	Bacc. (summa cum laude): University of Zagreb, Faculty of Education and Rehabilitation Sciences, Department of SLP
 - 01/09/2005–19/05/2009: Highschool education: II. gymnasium, Zagreb (Croatia) 
