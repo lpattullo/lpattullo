@@ -7,7 +7,7 @@
 - DoB: 27 January 1991
 - Croatian
 - a wife, a sister, a daughter, an aunt, a friend and an assistant professor
-- enjoyes research, music, cycling, yoga, books, travels
+- enjoys research, music, cycling, yoga, books, travels
 
 ## Current roles
 - assistant professor (University of Zagreb, Faculty of Education and Rehabilitation Sciences)
