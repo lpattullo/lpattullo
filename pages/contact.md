@@ -1,4 +1,4 @@
-## Other links and contact info
+## Various links and contact info
 
 ### Links
 
