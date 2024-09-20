@@ -2,7 +2,7 @@
 
 ### Links
 
-- [www.linkedin.com/in/ana-matić-škorić-3b260795]
+- [https://www.linkedin.com/in/ana-mati%C4%87-%C5%A1kori%C4%87-3b260795/?originalSubdomain=hr]
 - [https://www.researchgate.net/profile/Ana-Matic-Skoric]
 - [https://www.erf.unizg.hr/en/about_us/structure_and_management/laboratories/laboratory_for_psycholinguistic_research]
 - [https://www.croris.hr/crosbi/searchByContext/2/33228]
