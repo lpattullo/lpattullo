@@ -1,6 +1,6 @@
 ## Teaching
 
-##### Undergraduate Speech and Language Pathology Programme, University of Zagreb, Faculty of Education and Rehabilitation Sciences:
+##### Undergraduate Speech and Language Pathology Programme, University of Zagreb, Faculty of Education and Rehabilitation Sciences
 - Psycholinguistics
 - Developmental Speech and Language Disorders I (seminars)
 
