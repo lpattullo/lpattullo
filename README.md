@@ -1,5 +1,4 @@
 # **About me**
-![Profile Picture](ana1.jpg)
 <p align="center">
   <img src="ana1.jpg" alt="Profile Picture" width="200">
 </p>
