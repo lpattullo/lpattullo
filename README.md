@@ -8,8 +8,8 @@
 
 ## Current roles
 - assistant professor (University of Zagreb, Faculty of Education and Rehabilitation Sciences)
-- Fulbright scholar (Temple University, Philadelphia)
-- co-lead of the Laboratory for Psycholinguistic Research
+- Fulbright scholar (Temple University, Philadelphia, 2024/2025)
+- co-lead of the Laboratory for Psycholinguistic Research 
 - vice-chair of the COST Action CA21131
 - collaborator of the Concepts and Cognition Laboratory, Eleanor M. Saffran Center for Cognitive Neuroscience, Temple Unversity
   
