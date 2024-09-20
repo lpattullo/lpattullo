@@ -1,8 +1,9 @@
 ## Membership in associations
 
 ### International
-- European Speech and language Therapist Association (ESLA; member of one task force): 2022-
+- European Speech and language Therapist Association (ESLA) Task Force: 2022-
 - DAAD Alumni: 2020-
+- Collaboration of Aphasia Trialists: 2020-
 - Societas Linguistica Europaea (SLE): 2019-
 
 ### National
