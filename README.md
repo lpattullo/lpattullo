@@ -12,9 +12,9 @@
 ## Current roles
 - assistant professor (University of Zagreb, Faculty of Education and Rehabilitation Sciences)
 - Fulbright scholar (Temple University, Philadelphia, 2024/2025)
-- co-lead of the Laboratory for Psycholinguistic Research, University of Zagreb
-- vice-chair of the COST Action CA21131
-- collaborator of the Concepts and Cognition Laboratory, Eleanor M. Saffran Center for Cognitive Neuroscience, Temple Unversity
+- co-lead of the [Laboratory for Psycholinguistic Research, University of Zagreb](https://www.erf.unizg.hr/en/about_us/structure_and_management/laboratories/laboratory_for_psycholinguistic_research)
+- vice-chair of the COST Action CA21131: [Enabling multilingual eye-tracking data collection for human and machine language processing research; MultiplEYE](https://multipleye.eu/)
+- collaborator of the [Concepts and Cognition Laboratory, Eleanor M. Saffran Center for Cognitive Neuroscience, Temple Unversity](https://www.reilly-coglab.com/)
   
 ## Research interests and methods used in research
 - developmental and acquired language disorders
