@@ -1,6 +1,6 @@
 ## Scholarships, awards, grants 
 
-## Scholarships and awards
+### Scholarships and awards
 
 - **Fulbright Visiting Scholar Award**: prof. Jamie Reilly, Concepts and Cognition Laboratory, E. M. Saffran Center for Cognitive Neuroscience, Department of Communication Sciences and Disorders, Temple University, 19.8.2024.-19.12.2024.
 - Bilateral international exchange/academic visit: prof. Hanne Gram Simonsen, University of Oslo, Center for Multilingualism in Society across the Lifespan, 9.5.2022.-14.5.2022.
@@ -11,7 +11,7 @@
 - COST Action Grant: Short-term Scientific Mission, prof. James Law, University of Newcastle, 18.-24.4.2016.
 - **The highest achieving young scientist award**, University of Zagreb, 2019.
 
-## Grants
+### Grants
 
 - Jezično nasljeđe gradišćanskih Hrvata (JENGRAH), research collaborator, 2024-ongoing (PI: Ivan Marko Gligorić)
 - ISCH COST Action CA21131 - Enabling multilingual eye-tracking data collection for human and machine language processing research (MultiplEYE), Vice-Chair, Grant Awarding Coordinator, 2022-ongoing (PI: Lena Jaeger)
