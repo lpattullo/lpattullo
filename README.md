@@ -1,5 +1,5 @@
 # **About me**
-![Profile Picture](anaprofile.jpg)
+![Profile Picture](ana1.jpg)
 
 ## Basic information
 - DoB: 27 January 1991
