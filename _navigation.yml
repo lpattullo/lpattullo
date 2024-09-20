@@ -1,11 +1,8 @@
 - title: Home
   url: 
 
-- title: CV
-  url: /pages/cv.pdf 
-
-- title: Conferences
-  url: /pages/conferences.pdf
+- title: Publications
+  url: /pages/publications.md 
 
 - title: Contact
   #url: /Pages/Contact.md
