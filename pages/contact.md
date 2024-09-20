@@ -9,6 +9,6 @@
 
 ### Contact info
 
-- Official email [ana.matic@erf.unizg.hr]
-- Temple University email [ana.skoric@temple.edu]
-- Association for language development [jezraz@erf.hr]
+- Official email: ana.matic@erf.unizg.hr
+- Temple University email: ana.skoric@temple.edu
+- Association for language development: jezraz@erf.hr
