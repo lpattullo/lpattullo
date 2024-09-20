@@ -1,5 +1,7 @@
 # About me
 
+[Profile Picture](anaprofile.jpg){: style="width:250px; height:250px; border-radius:50%; object-fit:cover; display:block; margin-left:auto; margin-right:auto;"}
+
 ## Basic information
 - DoB: 27 January 1991
 - Croatian
