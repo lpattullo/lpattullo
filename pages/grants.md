@@ -1,4 +1,6 @@
-## Scholarships, international visits, awards 
+## Scholarships, awards, grants 
+
+## Scholarships and awards
 
 - **Fulbright Visiting Scholar Award**: prof. Jamie Reilly, Concepts and Cognition Laboratory, E. M. Saffran Center for Cognitive Neuroscience, Department of Communication Sciences and Disorders, Temple University, 19.8.2024.-19.12.2024.
 - Bilateral international exchange/academic visit: prof. Hanne Gram Simonsen, University of Oslo, Center for Multilingualism in Society across the Lifespan, 9.5.2022.-14.5.2022.
