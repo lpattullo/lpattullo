@@ -4,7 +4,7 @@
 </p>
 
 ## Basic information
-- Croatian
+- Croatian!
 - a wife, a sister, a daughter, an aunt, a friend and an assistant professor
 - enjoys research, music, books, cycling, yoga, travel
 
