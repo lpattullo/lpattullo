@@ -5,6 +5,9 @@
     - title: "Contact"
     url: /pages/contact.md
 
+    -title: "CV"
+    url: /pages/PattulloCV_May25.pdf
+
     - title: "Puzzles"
-    url: /pages/Neurocog Puzzle Blank.pdf
+    url: /pages/puzzles.md
 
