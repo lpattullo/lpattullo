@@ -3,10 +3,10 @@
     url: /README.md
 
     - title: "Contact"
-    url: /pages/contact.html
+    url: /pages/contact.md
 
     -title: "CV"
-    url: /pages/cv.md
+    url: /pages/cv.html
 
     - title: "Puzzles"
     url: /pages/puzzles.md
