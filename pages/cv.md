@@ -1,4 +1,4 @@
 
 **CV**
 <p align="left">
-  <img src="ana1.jpg" alt="Profile Picture" width="200">
+  <img src="PattulloCV_May25.png" alt="PattulloCV" width="100%">
