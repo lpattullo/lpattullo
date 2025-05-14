@@ -1,8 +1,3 @@
----
-title: "Neurocog Puzzle"
-permalink: /files/Neurocog-Puzzle-Blanks.pdf
-excerpt: 'This is a puzzle I made for a neurocognitive language disorders class during my master's. Give it a whirl!' 
-date: 2022-03-01
-Puzzle: 'http://lpattullo.github.io/pattullo.github.io/files/Neurocog-Puzzle-Blank.pdf'
-Solution: 'http://lpattullo.github.io/pattullo.github.io/files/Neurocog-Puzzle-Solution.pdf'
----
+## This is a page for hosting my puzzles
+
+Here is where a link to a puzzle will go when I figure out how to do it. 
