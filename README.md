@@ -5,7 +5,7 @@
 
 # **About me**
 
-Avery Pattullo is a first-year PhD student in the [Concepts and Cognition Laboratory, Eleanor M. Saffran Center for Cognitive Neuroscience](https://www.reilly-coglab.com/) at Temple University. She is interested in too many things, including grounded cognition and semantics, neurogenic cursing, and how language changes as we age. Avery is a speech-language pathologist with expertise in dysphagia, voice, aphasia, and neurodegerative disorders. They are a parent, a hobby writer, crossword constructor, runner, cellist, and tall ship enthusiast.
+Avery Pattullo is a second-year PhD student in the [Concepts and Cognition Laboratory, Eleanor M. Saffran Center for Cognitive Neuroscience](https://www.reilly-coglab.com/) at Temple University. She is interested in too many things, including grounded cognition and semantics, neurogenic cursing, and how language changes as we age. Avery is a speech-language pathologist with expertise in dysphagia, voice, aphasia, and neurodegerative disorders. They are a parent, a hobby writer, crossword constructor, runner, cellist, and tall ship enthusiast.
 
 ## Education 
 <p>PhD in Commmunication Sciences and Disorders, Temple University (anticipated 2028) </p>
