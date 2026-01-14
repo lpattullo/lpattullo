@@ -1,7 +1,4 @@
 ## NLP Week 1 Homework
-
-<!DOCTYPE html>
-
 <html>
 
 <head>
